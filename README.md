@@ -1,2 +1,2 @@
-# Tin dog
-Tinder clone for Dogs
+#Weather App
+Check your weather with city name
