@@ -1,2 +1,2 @@
-# weatherApp
-Search weather details by city name
+# Tin dog
+Tinder clone for Dogs
